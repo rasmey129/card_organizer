@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "card_organizer",
     "short_name": "card_organizer",
+=======
+    "name": "flutter_application_16",
+    "short_name": "flutter_application_16",
+>>>>>>> 028bea8f6dcd8bdfb662e234e90409c88b33431e
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

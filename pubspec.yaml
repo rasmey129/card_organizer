@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: card_organizer
+=======
+name: flutter_application_16
+>>>>>>> 028bea8f6dcd8bdfb662e234e90409c88b33431e
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -30,11 +34,19 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
+=======
+
+>>>>>>> 028bea8f6dcd8bdfb662e234e90409c88b33431e
   sqflite: ^2.0.11
   path_provider: ^2.0.11
   path: ^1.8.2
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 028bea8f6dcd8bdfb662e234e90409c88b33431e
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
@@ -55,7 +67,24 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+<<<<<<< HEAD
 
+=======
+  assets:
+    - assets/2_of_clubs.png
+    - assets/2_of_diamonds.png
+    - assets/2_of_hearts.png
+    - assets/2_of_spades.png
+    - assets/6_of_hearts.png
+    - assets/6_of_spades.png
+    - assets/7_of_clubs.png
+    - assets/7_of_diamonds.png
+    - assets/ace_of_clubs.png
+    - assets/ace_of_diamonds.png
+    - assets/ace_of_hearts.png
+    - assets/ace_of_spades.png
+    - assets/jack_of_hearts.png
+>>>>>>> 028bea8f6dcd8bdfb662e234e90409c88b33431e
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.

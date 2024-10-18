@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 import 'databaseHelper.dart';
 
 void main() async {
@@ -196,3 +197,21 @@ class CardsScreen extends StatelessWidget {
     );
   }
 }
+=======
+import 'folders_screen.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Card Manager',
+      theme: ThemeData(primarySwatch: Colors.blue),
+      home: FoldersScreen(),
+    );
+  }
+}
+>>>>>>> 028bea8f6dcd8bdfb662e234e90409c88b33431e

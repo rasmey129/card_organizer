@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="card_organizer"
+=======
+        android:label="flutter_application_16"
+>>>>>>> 028bea8f6dcd8bdfb662e234e90409c88b33431e
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
